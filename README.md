@@ -185,6 +185,8 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 
 # LangGraph
 
+![](./snapshots/lg.png)
+
 ## Topics Covered
 
 ## Introduction to LangGraph
@@ -324,6 +326,8 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 
 # LangSmith
 
+![](./snapshots/ls.png)
+
 ## Topics Covered
 
 ## What is LangSmith
@@ -442,6 +446,8 @@ LLM applications are non deterministic.
 - Tracking prompt performance
 
 # Model Context Protocol
+
+![MCP Inspector Testing](./snapshots/mcp_inspector.png)
 
 ## Topics Covered
 
