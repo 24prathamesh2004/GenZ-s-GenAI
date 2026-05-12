@@ -106,7 +106,6 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - DirectoryLoader
 - WebBaseLoader
 - CSVLoader
-- Lazy loading
 
 ---
 
@@ -146,10 +145,8 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Retrieval
 - Augmentation
 - Generation
-- Query rewriting
 - Hybrid retrieval
 - Reranking
-- Answer grounding
 - Evaluation with Ragas
 - LangSmith integration
 
@@ -161,7 +158,6 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Custom tools
 - Structured tools
 - BaseTool
-- Toolkits
 - Tool binding
 - Tool execution
 
@@ -197,7 +193,6 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Why LangGraph
 - Stateful AI workflows
 - Graph based orchestration
-- Multi step AI systems
 
 ---
 
@@ -255,7 +250,6 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Token streaming
 - Real time graph updates
 - Streaming responses
-- Incremental execution flow
 
 ---
 
@@ -315,16 +309,6 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Autonomous workflows
 - Multi step reasoning
 - Agent orchestration
-
----
-
-## Advanced Concepts
-
-- Error handling
-- Retry mechanisms
-- Branching execution
-- Async workflows
-- Production ready orchestration
 
 ---
 
@@ -466,6 +450,7 @@ LLM applications are non deterministic.
 - What is MCP
 - Why MCP
 - MCP architecture
+- MCP Lifecycle
 - Client server communication
 - AI tool interoperability
 
