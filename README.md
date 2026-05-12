@@ -17,6 +17,8 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 
 # LangChain
 
+## Topics Covered
+
 ## Introduction to LangChain
 
 - What is LangChain
@@ -181,12 +183,13 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Building modular LLM applications
 - Designing scalable RAG systems
 - Creating tool calling workflows
-- Developing autonomous AI agents
 - Managing prompts, memory, and retrieval pipelines
 - Working with vector databases and embeddings
 - Structuring AI outputs for production systems
 
 # LangGraph
+
+## Topics Covered
 
 ## Introduction to LangGraph
 
@@ -333,10 +336,11 @@ I explored everything from prompt engineering and RAG systems to agentic workflo
 - Implementing production ready AI orchestration
 - Creating persistent and observable workflows
 - Integrating tools and MCP clients
-- Developing advanced RAG architectures
 - Handling human approvals in AI systems
 
 # LangSmith
+
+## Topics Covered
 
 ## What is LangSmith
 
@@ -452,11 +456,10 @@ LLM applications are non deterministic.
 - Monitoring production LLM apps
 - Evaluating AI responses
 - Tracking prompt performance
-- Improving AI observability
 
 # Model Context Protocol
 
-# Model Context Protocol (MCP)
+## Topics Covered
 
 ## Introduction to MCP ( FastMCP )
 
@@ -474,7 +477,6 @@ LLM applications are non deterministic.
 - MCP servers
 - Resources
 - Tools
-- Prompts
 - Context sharing
 
 ---
@@ -530,8 +532,10 @@ LLM applications are non deterministic.
 
 - Building MCP based AI systems
 - Creating local and remote MCP servers
-- Designing interoperable AI workflows
 - Integrating MCP with LangGraph and LangChain
 - Managing scalable tool orchestration
-- Developing observable and persistent AI systems
-- Implementing real time AI communication workflows
+
+---
+
+Regards,  
+Prathamesh Bhavsar
